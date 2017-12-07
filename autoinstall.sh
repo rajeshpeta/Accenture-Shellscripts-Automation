@@ -1,6 +1,6 @@
 #!/bin/sh
 apt-get update
-java -versional
+java -version
 sudo apt-get install default-jre
 sudo apt-get install default-jdk
 sudo apt-get install openjdk-7-jre 
